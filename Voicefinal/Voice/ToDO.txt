@@ -1,0 +1,2 @@
+- Limitar concorrentes p/mentor batalhas
+- Assegurar que o adversário tem o mesmo mentor

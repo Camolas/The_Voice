@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\user\desktop\voice\voice\main.cpp(16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\voice\voice\main.cpp(39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\voice\voice\main.cpp(43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\voice\voice\main.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\voice\voice\main.cpp(105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\voice\voice\main.cpp(125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\voice\voice\main.cpp(197): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\desktop\voice\voice\main.cpp(199): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\desktop\voice\voice\main.cpp(166): warning C4101: 'c1': unreferenced local variable
+  Voice.vcxproj -> C:\Users\User\Desktop\Voice\Debug\Voice.exe

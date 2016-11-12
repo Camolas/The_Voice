@@ -1,0 +1,54 @@
+Sessao s1(Date("2016/11/02"), "Braga", Date("2016/12/25"));
+
+	cout << Concurso::getEdicoes().size();
+	cout << endl;
+	Concorrente c1("Bruno Pinto");
+	cout << c1.getInterpretacoes().size();
+	cout << endl;
+	cout << c1.getName();
+	cout << endl;
+	if (c1.getEtapaElim() == "")
+		cout << "Not yet!\n";
+
+	Edicao* e1=new(Edicao);
+	Concurso::addEdicao(e1);
+	cout << endl;
+	cout << Concurso::getNedicoes();
+	cout << endl;
+	try {
+		cout << e1->foiEliminado("Gabriel");
+		cout << endl;
+	}
+	catch (ExcecaoConcorrente c)
+	{
+		cout << c.getName() << " nao foi encontrado!\n";
+	}
+
+	cout << e1->getMentores().size() << endl;
+	cout << e1->getConcorrentes().size() << endl;
+	try {
+		cout << e1->getVencedor().getName() << endl;
+	}
+	catch (ExcecaoConcorrente c)
+	{
+		cout << "Ainda nao ha vencedor!\n";
+	}
+
+	Edicao e2(2003);
+	cout << e2.getAno() << endl;
+
+	Mentor m1("Maria Leal");
+	cout << m1.getNome() << endl;
+	cout << m1.getNumOrdem() << endl;
+
+	Mentor m2("Ze Cabra");
+	cout << m2.getNumOrdem() << endl;
+	cout << m2.getConcorrentes().size() << endl;
+
+	Interpretacao i1({ "Dialetos de Ternura","Maria Leal" });
+	cout << i1.getMus() << endl;
+	cout << i1.getCan() << endl;
+
+	IntProvasCegas i2({ "Dialetos de Ternura","Maria Leal" });
+	i2.viraMentor(0);
+	cout << i2.getVirouMentor()[0] << endl;
