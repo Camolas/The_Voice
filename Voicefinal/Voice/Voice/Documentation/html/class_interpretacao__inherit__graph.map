@@ -1,0 +1,6 @@
+<map id="Interpretacao" name="Interpretacao">
+<area shape="rect" id="node2" href="$class_int_batalhas.html" title="{IntBatalhas\n||+ IntBatalhas()\l+ setEliminado()\l+ checkBatalhas()\l}" alt="" coords="5,255,133,362"/>
+<area shape="rect" id="node3" href="$class_int_final.html" title="{IntFinal\n||+ IntFinal()\l+ getVotacaoPublico()\l+ getVotacaoMentor()\l+ setEliminado()\l}" alt="" coords="158,248,309,369"/>
+<area shape="rect" id="node4" href="$class_int_provas_cegas.html" title="{IntProvasCegas\n||+ IntProvasCegas()\l+ viraMentor()\l+ viraMentor()\l+ getVirouMentor()\l+ setMentor()\l+ setEliminado()\l}" alt="" coords="333,233,465,384"/>
+<area shape="rect" id="node5" href="$class_int_semi.html" title="{IntSemi\n||+ IntSemi()\l+ getVotacao()\l+ setEliminado()\l}" alt="" coords="489,255,607,362"/>
+</map>

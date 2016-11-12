@@ -1,0 +1,8 @@
+<map id="Concorrente::setEtapaElim" name="Concorrente::setEtapaElim">
+<area shape="rect" id="node2" href="$main_8cpp.html#a4db791a06041591461898e3d197b1aef" title="leFicheiro" alt="" coords="290,5,369,32"/>
+<area shape="rect" id="node4" href="$class_int_provas_cegas.html#ab5c52ce9961938d5be033dee29286854" title="IntProvasCegas::setEliminado" alt="" coords="232,56,427,83"/>
+<area shape="rect" id="node5" href="$class_int_batalhas.html#aaebcee03c02c36ae5b7ba1f82dc9542b" title="IntBatalhas::setEliminado" alt="" coords="244,107,415,133"/>
+<area shape="rect" id="node6" href="$class_int_semi.html#a44c2e4aa43019acdbfa96b87281325d3" title="IntSemi::setEliminado" alt="" coords="255,157,404,184"/>
+<area shape="rect" id="node7" href="$class_int_final.html#a458a3cc43a188ce2423f3b15ce9e331f" title="IntFinal::setEliminado" alt="" coords="256,208,403,235"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="475,56,525,83"/>
+</map>

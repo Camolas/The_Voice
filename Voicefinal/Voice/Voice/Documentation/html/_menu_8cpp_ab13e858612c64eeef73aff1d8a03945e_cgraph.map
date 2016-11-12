@@ -1,0 +1,7 @@
+<map id="printMenu" name="printMenu">
+<area shape="rect" id="node2" href="$_menu_8cpp.html#aa294b49bfcc17cf4b490fb020e359851" title="gotoXY" alt="" coords="311,97,373,124"/>
+<area shape="rect" id="node3" href="$_menu_8cpp.html#a3434656c74e5b3135bc1cf378dac9a86" title="NovaEdicao" alt="" coords="152,34,243,61"/>
+<area shape="rect" id="node4" href="$_menu_8cpp.html#a6e427ac51a3da83ef5251a80ebbddb9e" title="ClrScr" alt="" coords="168,85,227,112"/>
+<area shape="rect" id="node5" href="$_menu_8cpp.html#a0fb23366312ee59780292eb64bceb3e7" title="ContinuarEdicao" alt="" coords="139,136,256,162"/>
+<area shape="rect" id="node6" href="$_menu_8cpp.html#a398f7db5c12bed72046376780b239b66" title="printMenu_Opcoes" alt="" coords="132,210,263,237"/>
+</map>

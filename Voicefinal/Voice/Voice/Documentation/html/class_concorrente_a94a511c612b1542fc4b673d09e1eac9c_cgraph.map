@@ -1,0 +1,6 @@
+<map id="Concorrente::setAdversario" name="Concorrente::setAdversario">
+<area shape="rect" id="node2" href="$class_concorrente.html#aea8d41c59e9b0aa45f380c17388d25c6" title="Concorrente::getEdicao" alt="" coords="232,5,391,32"/>
+<area shape="rect" id="node3" href="$class_edicao.html#af31b4068c0a66abe351929b847460cae" title="Edicao::foiEliminado" alt="" coords="241,56,381,83"/>
+<area shape="rect" id="node4" href="$class_concorrente.html#afd244a12a586f970f37decaecee0621f" title="Concorrente::getName" alt="" coords="439,81,591,108"/>
+<area shape="rect" id="node5" href="$class_concorrente.html#a186e91b7c903a96414fa444efbc00f69" title="Concorrente::getMentor" alt="" coords="232,157,391,184"/>
+</map>

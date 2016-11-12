@@ -1,0 +1,7 @@
+<map id="IntBatalhas::checkBatalhas" name="IntBatalhas::checkBatalhas">
+<area shape="rect" id="node2" href="$class_interpretacao.html#ac21d5a617e0ddb608e98717b21bb8130" title="Interpretacao::getConcorrente" alt="" coords="235,5,428,32"/>
+<area shape="rect" id="node3" href="$class_concorrente.html#aea8d41c59e9b0aa45f380c17388d25c6" title="Concorrente::getEdicao" alt="" coords="252,56,411,83"/>
+<area shape="rect" id="node4" href="$class_edicao.html#a416287f7cd03bec4501e7bb4f1a84de4" title="Edicao::getMentores" alt="" coords="260,107,403,133"/>
+<area shape="rect" id="node5" href="$class_edicao.html#af31b4068c0a66abe351929b847460cae" title="Edicao::foiEliminado" alt="" coords="261,157,401,184"/>
+<area shape="rect" id="node6" href="$class_concorrente.html#afd244a12a586f970f37decaecee0621f" title="Concorrente::getName" alt="" coords="476,157,628,184"/>
+</map>

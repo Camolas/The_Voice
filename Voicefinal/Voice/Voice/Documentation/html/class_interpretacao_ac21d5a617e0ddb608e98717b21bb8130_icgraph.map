@@ -1,0 +1,10 @@
+<map id="Interpretacao::getConcorrente" name="Interpretacao::getConcorrente">
+<area shape="rect" id="node2" href="$main_8cpp.html#a4db791a06041591461898e3d197b1aef" title="leFicheiro" alt="" coords="535,88,614,115"/>
+<area shape="rect" id="node4" href="$class_int_provas_cegas.html#ab5c52ce9961938d5be033dee29286854" title="IntProvasCegas::setEliminado" alt="" coords="247,38,441,64"/>
+<area shape="rect" id="node5" href="$class_int_provas_cegas.html#ab8dd34a09819e70b647ccbb09e145518" title="IntProvasCegas::viraMentor" alt="" coords="255,88,433,115"/>
+<area shape="rect" id="node6" href="$class_int_batalhas.html#ae76c8c20df6d357bc9389ed4545a5ea7" title="IntBatalhas::checkBatalhas" alt="" coords="253,139,435,166"/>
+<area shape="rect" id="node7" href="$class_int_batalhas.html#aaebcee03c02c36ae5b7ba1f82dc9542b" title="IntBatalhas::setEliminado" alt="" coords="489,164,660,191"/>
+<area shape="rect" id="node8" href="$class_int_semi.html#a44c2e4aa43019acdbfa96b87281325d3" title="IntSemi::setEliminado" alt="" coords="269,240,419,267"/>
+<area shape="rect" id="node9" href="$class_int_final.html#a458a3cc43a188ce2423f3b15ce9e331f" title="IntFinal::setEliminado" alt="" coords="271,291,417,318"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="708,114,759,140"/>
+</map>

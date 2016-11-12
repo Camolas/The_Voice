@@ -1,0 +1,6 @@
+<map id="Edicao::getMentores" name="Edicao::getMentores">
+<area shape="rect" id="node2" href="$class_int_provas_cegas.html#ab8dd34a09819e70b647ccbb09e145518" title="IntProvasCegas::viraMentor" alt="" coords="197,5,376,32"/>
+<area shape="rect" id="node5" href="$class_int_batalhas.html#ae76c8c20df6d357bc9389ed4545a5ea7" title="IntBatalhas::checkBatalhas" alt="" coords="196,56,377,83"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a4db791a06041591461898e3d197b1aef" title="leFicheiro" alt="" coords="425,5,504,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="552,5,603,32"/>
+</map>

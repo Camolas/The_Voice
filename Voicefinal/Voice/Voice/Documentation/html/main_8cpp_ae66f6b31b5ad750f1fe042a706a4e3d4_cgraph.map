@@ -1,0 +1,34 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$main_8cpp.html#a4db791a06041591461898e3d197b1aef" title="leFicheiro" alt="" coords="163,461,241,488"/>
+<area shape="rect" id="node3" href="$class_edicao.html#a7625ee01b115711f14494955c38c3cc7" title="Edicao::addMentor" alt="" coords="379,208,510,235"/>
+<area shape="rect" id="node6" href="$class_edicao.html#a6c55a60e8643116c2170ad6adb662392" title="Edicao::addConcorrente" alt="" coords="364,56,525,83"/>
+<area shape="rect" id="node7" href="$class_concorrente.html#afd244a12a586f970f37decaecee0621f" title="Concorrente::getName" alt="" coords="831,259,983,285"/>
+<area shape="rect" id="node23" href="$class_edicao.html#aa134bf38b24c43a09ec79a53ed4c46bd" title="Edicao::setVencedor" alt="" coords="373,664,516,691"/>
+<area shape="rect" id="node24" href="$class_concorrente.html#a6310bdcc2ed2e895ebc53e2d0b2103a2" title="Concorrente::addInterpretacao" alt="" coords="104,719,300,745"/>
+<area shape="rect" id="node26" href="$class_excecao_concorrente.html#ad74f7f3dcc15edf0e98dc1b0e3285469" title="ExcecaoConcorrente\l::getName" alt="" coords="131,770,273,811"/>
+<area shape="rect" id="node27" href="$class_edicao.html#a89af9f8940ab8d894a2c882bfe712622" title="Edicao::getVencedor" alt="" coords="131,836,273,863"/>
+<area shape="rect" id="node28" href="$class_campo_vazio.html#a4c8ce6aa9d04bf62caba21feb4d81a02" title="CampoVazio::getCampo" alt="" coords="121,887,283,913"/>
+<area shape="rect" id="node29" href="$class_int_batalhas.html#aaebcee03c02c36ae5b7ba1f82dc9542b" title="IntBatalhas::setEliminado" alt="" coords="117,668,287,695"/>
+<area shape="rect" id="node30" href="$class_edicao.html#a07b4ee6c67b8989ffae9fbaea0f8dba8" title="Edicao::addSessao" alt="" coords="135,937,269,964"/>
+<area shape="rect" id="node33" href="$class_vetor_cheio.html#ac4cc795f34570daa63370a6f7323f094" title="VetorCheio::getName" alt="" coords="129,988,275,1015"/>
+<area shape="rect" id="node9" href="$class_edicao.html#a4220cd6ba5ed0f9cdd17e6f23775c872" title="Edicao::getConcorrentes" alt="" coords="362,512,527,539"/>
+<area shape="rect" id="node10" href="$class_int_provas_cegas.html#ab8dd34a09819e70b647ccbb09e145518" title="IntProvasCegas::viraMentor" alt="" coords="355,563,534,589"/>
+<area shape="rect" id="node11" href="$class_interpretacao.html#ac21d5a617e0ddb608e98717b21bb8130" title="Interpretacao::getConcorrente" alt="" coords="589,613,783,640"/>
+<area shape="rect" id="node14" href="$class_concorrente.html#ae18adfbf45868a3dcc5869c5afe2efe1" title="Concorrente::setMentor" alt="" coords="365,259,524,285"/>
+<area shape="rect" id="node16" href="$class_edicao.html#af31b4068c0a66abe351929b847460cae" title="Edicao::foiEliminado" alt="" coords="616,360,756,387"/>
+<area shape="rect" id="node17" href="$class_concorrente.html#a94a511c612b1542fc4b673d09e1eac9c" title="Concorrente::setAdversario" alt="" coords="355,411,534,437"/>
+<area shape="rect" id="node19" href="$class_concorrente.html#af2122b76a0b4f4ef6afbc57c5ac2c39a" title="Concorrente::setEtapaElim" alt="" coords="355,715,534,741"/>
+<area shape="rect" id="node20" href="$_voice_8cpp.html#a866b82c4ab4469a8c2785c47840c6507" title="compareIntSemi" alt="" coords="387,309,503,336"/>
+<area shape="rect" id="node22" href="$class_edicao.html#a3a6c022b5c59e581917f82dda1b60e0c" title="Edicao::passaFinal" alt="" coords="378,461,511,488"/>
+<area shape="rect" id="node4" href="$class_mentor.html#a1f95c5fced64cea06c8985ae6bd7bac4" title="Mentor::getNome" alt="" coords="625,208,747,235"/>
+<area shape="rect" id="node5" href="$class_mentor.html#a44ce969ad2ec9d37207e71aa49551cf6" title="Mentor::setEdicao" alt="" coords="622,157,750,184"/>
+<area shape="rect" id="node8" href="$class_concorrente.html#aeccecbae2186b8cbaeef7d85f7b12ef3" title="Concorrente::setEdicao" alt="" coords="607,5,765,32"/>
+<area shape="rect" id="node12" href="$class_concorrente.html#aea8d41c59e9b0aa45f380c17388d25c6" title="Concorrente::getEdicao" alt="" coords="607,512,765,539"/>
+<area shape="rect" id="node13" href="$class_edicao.html#a416287f7cd03bec4501e7bb4f1a84de4" title="Edicao::getMentores" alt="" coords="615,563,757,589"/>
+<area shape="rect" id="node15" href="$class_mentor.html#a175b36266733adb5d1e2c0874306d3d2" title="Mentor::addConcorrente" alt="" coords="605,259,767,285"/>
+<area shape="rect" id="node18" href="$class_concorrente.html#a186e91b7c903a96414fa444efbc00f69" title="Concorrente::getMentor" alt="" coords="607,461,765,488"/>
+<area shape="rect" id="node21" href="$class_int_semi.html#ac9dedf314e1ac8aa85b94bc08ddc0355" title="IntSemi::getVotacao" alt="" coords="616,309,756,336"/>
+<area shape="rect" id="node25" href="$class_interpretacao.html#ac043f0530a5380560cf449f92dc2444d" title="Interpretacao::setConcorrente" alt="" coords="348,816,541,843"/>
+<area shape="rect" id="node31" href="$class_sessao.html#aa2253f978940fa11137675002fa5d197" title="Sessao::getFase" alt="" coords="384,912,505,939"/>
+<area shape="rect" id="node32" href="$class_sessao.html#adef4bfbab85cb38548ab21b1349392a3" title="Sessao::setEdicao" alt="" coords="379,963,511,989"/>
+</map>

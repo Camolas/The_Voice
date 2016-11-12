@@ -1,0 +1,10 @@
+<map id="Concorrente::getName" name="Concorrente::getName">
+<area shape="rect" id="node2" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="771,150,821,177"/>
+<area shape="rect" id="node3" href="$class_edicao.html#af31b4068c0a66abe351929b847460cae" title="Edicao::foiEliminado" alt="" coords="216,74,356,101"/>
+<area shape="rect" id="node5" href="$class_concorrente.html#a94a511c612b1542fc4b673d09e1eac9c" title="Concorrente::setAdversario" alt="" coords="416,125,595,151"/>
+<area shape="rect" id="node7" href="$class_edicao.html#a6c55a60e8643116c2170ad6adb662392" title="Edicao::addConcorrente" alt="" coords="425,226,586,253"/>
+<area shape="rect" id="node8" href="$class_mentor.html#a175b36266733adb5d1e2c0874306d3d2" title="Mentor::addConcorrente" alt="" coords="205,175,367,202"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a4db791a06041591461898e3d197b1aef" title="leFicheiro" alt="" coords="644,150,723,177"/>
+<area shape="rect" id="node6" href="$class_int_batalhas.html#ae76c8c20df6d357bc9389ed4545a5ea7" title="IntBatalhas::checkBatalhas" alt="" coords="415,74,596,101"/>
+<area shape="rect" id="node9" href="$class_concorrente.html#ae18adfbf45868a3dcc5869c5afe2efe1" title="Concorrente::setMentor" alt="" coords="426,175,585,202"/>
+</map>
