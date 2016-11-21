@@ -1,0 +1,6 @@
+<map id="Edicao::passaFinal" name="Edicao::passaFinal">
+<area shape="rect" id="node2" href="$_voice_8cpp.html#a866b82c4ab4469a8c2785c47840c6507" title="compareIntSemi" alt="" coords="228,5,346,33"/>
+<area shape="rect" id="node4" href="$class_interpretacao.html#ac21d5a617e0ddb608e98717b21bb8130" title="Interpretacao::getConcorrente" alt="" coords="187,57,386,85"/>
+<area shape="rect" id="node5" href="$class_concorrente.html#af2122b76a0b4f4ef6afbc57c5ac2c39a" title="Concorrente::setEtapaElim" alt="" coords="197,109,377,137"/>
+<area shape="rect" id="node3" href="$class_int_semi.html#ac9dedf314e1ac8aa85b94bc08ddc0355" title="IntSemi::getVotacao" alt="" coords="434,5,576,33"/>
+</map>

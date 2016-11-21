@@ -1,0 +1,18 @@
+<map id="gotoXY" name="gotoXY">
+<area shape="rect" id="node2" href="$_menu_8h.html#ab13e858612c64eeef73aff1d8a03945e" title="printMenu" alt="" coords="511,263,591,291"/>
+<area shape="rect" id="node4" href="$_menu_8h.html#a88a0a4727c21d3902437a94784d337a8" title="printMenu_Informacoes" alt="" coords="936,205,1097,233"/>
+<area shape="rect" id="node5" href="$_menu_8h.html#af126db54dd28e81494930904003e1407" title="printMenu_VencedoresAnteriores" alt="" coords="668,147,888,175"/>
+<area shape="rect" id="node6" href="$_menu_8h.html#a3569951f21a6c4400177e79b7bbe5638" title="printMenu_EdicoesAnteriores" alt="" coords="680,564,876,592"/>
+<area shape="rect" id="node7" href="$_nova_edicao_8h.html#a5884aaf0fe472d44ca2f5d080f5ea5bc" title="finais" alt="" coords="752,381,804,409"/>
+<area shape="rect" id="node8" href="$_menu_8h.html#a07e25a237460a8a49862ac550017f030" title="printMenu_Creditos" alt="" coords="482,24,620,52"/>
+<area shape="rect" id="node9" href="$_nova_edicao_8h.html#ace1341cb7361b355b8f54e1bfda70cd5" title="NovaEdicao" alt="" coords="306,281,399,309"/>
+<area shape="rect" id="node10" href="$_nova_edicao_8h.html#adbe8226960ae0adfa3537b97878d6783" title="provas_cegas" alt="" coords="118,385,223,413"/>
+<area shape="rect" id="node11" href="$_nova_edicao_8h.html#a722637b19cc235432c58657fb275466f" title="batalhas" alt="" coords="135,229,206,257"/>
+<area shape="rect" id="node12" href="$_nova_edicao_8h.html#a9d5a31f9fea119cc80e0d6d0b0385a96" title="semi_finais" alt="" coords="127,281,215,309"/>
+<area shape="rect" id="node13" href="$_print_edicao_8h.html#a795bfaeb129e69ab077e6f9b373b9985" title="Edicao_Sessoes" alt="" coords="292,747,413,775"/>
+<area shape="rect" id="node14" href="$_print_edicao_8h.html#ae44a2432e002ac9aac724aca070ebda3" title="Edicao_Vencedor" alt="" coords="488,487,614,515"/>
+<area shape="rect" id="node15" href="$_print_edicao_8h.html#ae72e9a4882581e31d13985f30e1b18fc" title="Edicao_Mentores" alt="" coords="290,539,415,567"/>
+<area shape="rect" id="node16" href="$_print_edicao_8h.html#acddebf845b12948f1da690e21968c3b3" title="Edicao_Equipas" alt="" coords="492,591,610,619"/>
+<area shape="rect" id="node17" href="$_print_edicao_8h.html#a230751166fcf2707dd4a09692639a28a" title="Edicao_VerConcorrente" alt="" coords="271,643,434,671"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="753,199,803,227"/>
+</map>

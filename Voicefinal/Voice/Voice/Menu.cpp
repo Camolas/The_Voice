@@ -22,7 +22,9 @@ void ClrScr()
 	cout << "\033[2J" << flush;
 	//cout << "\033[2J\033[1;1H";
 }
-
+/*
+ *
+ */
 void mostraEdicoes()
 {
 	//int ans;

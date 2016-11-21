@@ -1,0 +1,15 @@
+<map id="batalhas" name="batalhas">
+<area shape="rect" id="node2" href="$_menu_8cpp.html#a6e427ac51a3da83ef5251a80ebbddb9e" title="ClrScr" alt="" coords="197,5,256,33"/>
+<area shape="rect" id="node3" href="$_menu_8cpp.html#aa294b49bfcc17cf4b490fb020e359851" title="gotoXY" alt="" coords="194,57,259,85"/>
+<area shape="rect" id="node4" href="$class_date.html#a7d9aaa9db591413e21c8b85fdae130ad" title="Date::isValid" alt="" coords="178,109,275,137"/>
+<area shape="rect" id="node5" href="$class_dia_invalido.html#a281a37de3617e56cb9e674fde3ed2076" title="DiaInvalido::getDay" alt="" coords="158,161,295,189"/>
+<area shape="rect" id="node6" href="$class_concurso.html#ab0a8d03563a40bec41da385a89b3e1d3" title="Concurso::getEdicoes" alt="" coords="151,213,302,241"/>
+<area shape="rect" id="node7" href="$class_concorrente.html#a94a511c612b1542fc4b673d09e1eac9c" title="Concorrente::setAdversario" alt="" coords="135,265,318,293"/>
+<area shape="rect" id="node11" href="$class_concorrente.html#afd244a12a586f970f37decaecee0621f" title="Concorrente::getName" alt="" coords="148,317,305,345"/>
+<area shape="rect" id="node12" href="$class_concorrente.html#a6310bdcc2ed2e895ebc53e2d0b2103a2" title="Concorrente::addInterpretacao" alt="" coords="125,369,328,397"/>
+<area shape="rect" id="node14" href="$class_concorrente.html#af2122b76a0b4f4ef6afbc57c5ac2c39a" title="Concorrente::setEtapaElim" alt="" coords="136,421,317,449"/>
+<area shape="rect" id="node8" href="$class_concorrente.html#aea8d41c59e9b0aa45f380c17388d25c6" title="Concorrente::getEdicao" alt="" coords="394,213,556,241"/>
+<area shape="rect" id="node9" href="$class_edicao.html#af31b4068c0a66abe351929b847460cae" title="Edicao::foiEliminado" alt="" coords="404,265,546,293"/>
+<area shape="rect" id="node10" href="$class_concorrente.html#a186e91b7c903a96414fa444efbc00f69" title="Concorrente::getMentor" alt="" coords="394,317,556,345"/>
+<area shape="rect" id="node13" href="$class_interpretacao.html#ac043f0530a5380560cf449f92dc2444d" title="Interpretacao::setConcorrente" alt="" coords="376,369,574,397"/>
+</map>

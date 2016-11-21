@@ -1,0 +1,7 @@
+<map id="Edicao_Equipas" name="Edicao_Equipas">
+<area shape="rect" id="node2" href="$_menu_8cpp.html#a6e427ac51a3da83ef5251a80ebbddb9e" title="ClrScr" alt="" coords="218,5,277,33"/>
+<area shape="rect" id="node3" href="$_menu_8cpp.html#aa294b49bfcc17cf4b490fb020e359851" title="gotoXY" alt="" coords="215,57,280,85"/>
+<area shape="rect" id="node4" href="$class_concurso.html#ab0a8d03563a40bec41da385a89b3e1d3" title="Concurso::getEdicoes" alt="" coords="172,109,323,137"/>
+<area shape="rect" id="node5" href="$_voice_8cpp.html#a8e9a2b8e468f15ff560698d74a32917a" title="compareConcorrentes" alt="" coords="171,161,324,189"/>
+<area shape="rect" id="node6" href="$class_concorrente.html#afd244a12a586f970f37decaecee0621f" title="Concorrente::getName" alt="" coords="372,161,528,189"/>
+</map>

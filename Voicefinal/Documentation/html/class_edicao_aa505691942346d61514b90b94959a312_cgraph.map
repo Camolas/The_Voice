@@ -1,0 +1,7 @@
+<map id="Edicao::setVencedor" name="Edicao::setVencedor">
+<area shape="rect" id="node2" href="$_voice_8cpp.html#a780dbd11ac527f82cf98d3ecb0d6cd80" title="compareIntFinal" alt="" coords="239,31,356,59"/>
+<area shape="rect" id="node5" href="$class_interpretacao.html#ac21d5a617e0ddb608e98717b21bb8130" title="Interpretacao::getConcorrente" alt="" coords="198,83,397,111"/>
+<area shape="rect" id="node6" href="$class_concorrente.html#af2122b76a0b4f4ef6afbc57c5ac2c39a" title="Concorrente::setEtapaElim" alt="" coords="207,135,388,163"/>
+<area shape="rect" id="node3" href="$class_int_final.html#a68ee51c2cb2979a8633940f81ceba532" title="IntFinal::getVotacaoMentor" alt="" coords="446,5,627,33"/>
+<area shape="rect" id="node4" href="$class_int_final.html#adcada0be62100bbe7291c3eebfc56f47" title="IntFinal::getVotacaoPublico" alt="" coords="445,57,628,85"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Edicao::foiEliminado" name="Edicao::foiEliminado">
+<area shape="rect" id="node2" href="$main_8cpp.html#a0b5213fe29ae56f2d8e568627beca81a" title="leFicheiro" alt="" coords="427,11,506,39"/>
+<area shape="rect" id="node4" href="$class_concorrente.html#a94a511c612b1542fc4b673d09e1eac9c" title="Concorrente::setAdversario" alt="" coords="195,63,379,91"/>
+<area shape="rect" id="node12" href="$class_int_batalhas.html#ae76c8c20df6d357bc9389ed4545a5ea7" title="IntBatalhas::checkBatalhas" alt="" coords="196,115,378,143"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="909,5,959,33"/>
+<area shape="rect" id="node5" href="$_nova_edicao_8h.html#a722637b19cc235432c58657fb275466f" title="batalhas" alt="" coords="431,67,502,95"/>
+<area shape="rect" id="node6" href="$_nova_edicao_8h.html#ace1341cb7361b355b8f54e1bfda70cd5" title="NovaEdicao" alt="" coords="554,79,647,107"/>
+<area shape="rect" id="node7" href="$_menu_8h.html#ab13e858612c64eeef73aff1d8a03945e" title="printMenu" alt="" coords="695,81,776,109"/>
+<area shape="rect" id="node8" href="$_menu_8h.html#a88a0a4727c21d3902437a94784d337a8" title="printMenu_Informacoes" alt="" coords="1092,101,1253,129"/>
+<area shape="rect" id="node9" href="$_menu_8h.html#af126db54dd28e81494930904003e1407" title="printMenu_VencedoresAnteriores" alt="" coords="824,133,1044,161"/>
+<area shape="rect" id="node10" href="$_menu_8h.html#a3569951f21a6c4400177e79b7bbe5638" title="printMenu_EdicoesAnteriores" alt="" coords="836,185,1032,213"/>
+<area shape="rect" id="node11" href="$_nova_edicao_8h.html#a5884aaf0fe472d44ca2f5d080f5ea5bc" title="finais" alt="" coords="908,237,960,265"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IntSemi" name="IntSemi">
+<area shape="rect" id="node2" href="$class_interpretacao.html" title="{Interpretacao\n||+ Interpretacao()\l+ Interpretacao()\l+ getMus()\l+ getCan()\l+ setConcorrente()\l+ getConcorrente()\l+ setEliminado()\l+ getVirouMentor()\l+ getVotacaoPublico()\l+ getVotacaoMentor()\l+ getVotacao()\l}" alt="" coords="268,407,421,648"/>
+<area shape="rect" id="node3" href="$class_concorrente.html" title="Representa cada concorrente. " alt="" coords="69,5,215,311"/>
+<area shape="rect" id="node4" href="$class_edicao.html" title="{Edicao\n|&#45; mentores\l&#45; concorrentes\l&#45; nEdicao\l&#45; ano\l&#45; sessoes\l|+ Edicao()\l+ Edicao()\l+ foiEliminado()\l+ getMentores()\l+ getConcorrentes()\l+ getVencedor()\l+ getAno()\l+ addConcorrente()\l+ addMentor()\l+ setVencedor()\land 6 more...\l}" alt="" coords="5,375,146,680"/>
+<area shape="rect" id="node5" href="$class_mentor.html" title="Representam cada Mentor. " alt="" coords="76,744,216,921"/>
+<area shape="rect" id="node6" href="$struct_musica.html" title="{Musica\n|+ nome\l+ cantor\l|}" alt="" coords="310,109,380,207"/>
+</map>

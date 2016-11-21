@@ -1,0 +1,6 @@
+<map id="Interpretacao" name="Interpretacao">
+<area shape="rect" id="node2" href="$class_int_batalhas.html" title="Classe derivada das interpretacoes pela qual sao representadas as interpretacoes das batalhas..." alt="" coords="5,327,134,440"/>
+<area shape="rect" id="node3" href="$class_int_final.html" title="Classe derivada das interpretacoes pela qual sao representadas as interpretacoes da final..." alt="" coords="157,311,310,456"/>
+<area shape="rect" id="node4" href="$class_int_provas_cegas.html" title="Classe derivada das interpretacoes pela qual sao representadas as interpretacoes das provas cegas..." alt="" coords="335,319,471,448"/>
+<area shape="rect" id="node5" href="$class_int_semi.html" title="Classe derivada das interpretacoes pela qual sao representadas as interpretacoes das semis..." alt="" coords="495,327,613,440"/>
+</map>

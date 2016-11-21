@@ -1,0 +1,11 @@
+<map id="provas_cegas" name="provas_cegas">
+<area shape="rect" id="node2" href="$_menu_8cpp.html#a6e427ac51a3da83ef5251a80ebbddb9e" title="ClrScr" alt="" coords="228,5,286,33"/>
+<area shape="rect" id="node3" href="$_menu_8cpp.html#aa294b49bfcc17cf4b490fb020e359851" title="gotoXY" alt="" coords="225,57,290,85"/>
+<area shape="rect" id="node4" href="$class_concurso.html#ab0a8d03563a40bec41da385a89b3e1d3" title="Concurso::getEdicoes" alt="" coords="181,109,333,137"/>
+<area shape="rect" id="node5" href="$class_date.html#a7d9aaa9db591413e21c8b85fdae130ad" title="Date::isValid" alt="" coords="209,161,305,189"/>
+<area shape="rect" id="node6" href="$class_dia_invalido.html#a281a37de3617e56cb9e674fde3ed2076" title="DiaInvalido::getDay" alt="" coords="189,213,326,241"/>
+<area shape="rect" id="node7" href="$class_entrada_invalida.html#ae95283c41dab240ce25933bb460d9118" title="EntradaInvalida::getName" alt="" coords="170,265,345,293"/>
+<area shape="rect" id="node8" href="$class_int_provas_cegas.html#a1b93c193400ad25c185a2a9eb17d6a87" title="IntProvasCegas::viraMentor" alt="" coords="164,317,351,345"/>
+<area shape="rect" id="node9" href="$class_interpretacao.html#ac21d5a617e0ddb608e98717b21bb8130" title="Interpretacao::getConcorrente" alt="" coords="158,369,357,397"/>
+<area shape="rect" id="node10" href="$class_concorrente.html#ab4421362e6c95b87a4591d60d13b9d5f" title="Concorrente::setMentor" alt="" coords="177,421,338,449"/>
+</map>

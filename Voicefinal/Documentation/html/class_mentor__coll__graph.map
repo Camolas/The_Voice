@@ -1,0 +1,4 @@
+<map id="Mentor" name="Mentor">
+<area shape="rect" id="node3" href="$class_concorrente.html" title="Representa cada concorrente. " alt="" coords="5,247,151,552"/>
+<area shape="rect" id="node2" href="$class_edicao.html" title="{Edicao\n|&#45; mentores\l&#45; concorrentes\l&#45; nEdicao\l&#45; ano\l&#45; sessoes\l|+ Edicao()\l+ Edicao()\l+ foiEliminado()\l+ getMentores()\l+ getConcorrentes()\l+ getVencedor()\l+ getAno()\l+ addConcorrente()\l+ addMentor()\l+ setVencedor()\land 6 more...\l}" alt="" coords="101,616,242,921"/>
+</map>

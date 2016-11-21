@@ -1,0 +1,17 @@
+<map id="Interpretacao::getConcorrente" name="Interpretacao::getConcorrente">
+<area shape="rect" id="node2" href="$main_8cpp.html#a0b5213fe29ae56f2d8e568627beca81a" title="leFicheiro" alt="" coords="490,35,569,63"/>
+<area shape="rect" id="node4" href="$_nova_edicao_8h.html#adbe8226960ae0adfa3537b97878d6783" title="provas_cegas" alt="" coords="291,139,396,167"/>
+<area shape="rect" id="node11" href="$class_edicao.html#a3a6c022b5c59e581917f82dda1b60e0c" title="ordenação e seleção dos concorrentes de cada semifinal, de acordo com a votação que obtêm ..." alt="" coords="277,35,411,63"/>
+<area shape="rect" id="node12" href="$class_edicao.html#aa505691942346d61514b90b94959a312" title="Edicao::setVencedor" alt="" coords="271,87,416,115"/>
+<area shape="rect" id="node13" href="$class_int_batalhas.html#ae76c8c20df6d357bc9389ed4545a5ea7" title="IntBatalhas::checkBatalhas" alt="" coords="252,191,435,219"/>
+<area shape="rect" id="node14" href="$class_int_batalhas.html#aaebcee03c02c36ae5b7ba1f82dc9542b" title="IntBatalhas::setEliminado" alt="" coords="258,243,429,271"/>
+<area shape="rect" id="node15" href="$class_int_semi.html#a44c2e4aa43019acdbfa96b87281325d3" title="IntSemi::setEliminado" alt="" coords="268,295,419,323"/>
+<area shape="rect" id="node16" href="$class_int_final.html#a458a3cc43a188ce2423f3b15ce9e331f" title="IntFinal::setEliminado" alt="" coords="269,347,418,375"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="837,35,887,63"/>
+<area shape="rect" id="node5" href="$_nova_edicao_8h.html#ace1341cb7361b355b8f54e1bfda70cd5" title="NovaEdicao" alt="" coords="483,139,576,167"/>
+<area shape="rect" id="node6" href="$_menu_8h.html#ab13e858612c64eeef73aff1d8a03945e" title="printMenu" alt="" coords="624,139,704,167"/>
+<area shape="rect" id="node7" href="$_menu_8h.html#a88a0a4727c21d3902437a94784d337a8" title="printMenu_Informacoes" alt="" coords="1020,131,1182,159"/>
+<area shape="rect" id="node8" href="$_menu_8h.html#af126db54dd28e81494930904003e1407" title="printMenu_VencedoresAnteriores" alt="" coords="752,163,972,191"/>
+<area shape="rect" id="node9" href="$_menu_8h.html#a3569951f21a6c4400177e79b7bbe5638" title="printMenu_EdicoesAnteriores" alt="" coords="764,215,960,243"/>
+<area shape="rect" id="node10" href="$_nova_edicao_8h.html#a5884aaf0fe472d44ca2f5d080f5ea5bc" title="finais" alt="" coords="836,267,889,295"/>
+</map>
